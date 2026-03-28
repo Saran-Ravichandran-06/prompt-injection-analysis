@@ -1,4 +1,4 @@
-# Prompt Injection Analysis Lab
+# Prompt Injection Analysis
 
 **Advanced Prompt Injection Analysis Lab: A full-stack laboratory for researching and defending against LLM security threats. Compare vulnerable and hardened prompts in real-time.**
 
